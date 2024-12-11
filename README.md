@@ -1,2 +1,2 @@
 # 2048-CPP
-Console version of 2048 with C++.
+console version of 2048 in C++, but with effects of animation
